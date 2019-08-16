@@ -1,0 +1,18 @@
+name: ircd
+version: 0.1.0
+
+authors:
+  - Max Gurela <maxpowa@outlook.com>
+
+description: |
+  Short description of ircd
+
+dependencies:
+  fast_irc:
+    github: RX14/fast_irc.cr
+    commit: 0a9c044
+  commander:
+    github: mrrooijen/commander
+    version: ~> 0.3.3
+
+license: MIT

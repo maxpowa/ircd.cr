@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  commander:
+    github: mrrooijen/commander
+    version: 0.3.3
+
+  fast_irc:
+    github: RX14/fast_irc.cr
+    commit: 0a9c0446a552239eb373832c0bc7bd29df1b71d7
+
